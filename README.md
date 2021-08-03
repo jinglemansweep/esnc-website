@@ -1,2 +1,0 @@
-# esnc-website
-TBC
